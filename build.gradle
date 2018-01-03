@@ -86,6 +86,6 @@ ext {
 
     frescoVersion = '1.5.0'
     glideVersion = '4.4.0'
-    ssivVersion = '3.8.0'
+    ssivVersion = '3.9.0'
     commonsVersion = '2.6'
 }
